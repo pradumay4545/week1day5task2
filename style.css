@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, sans-serif;
+    width: 350px;
+    margin: auto;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    padding: 8px;
+    margin-bottom: 5px;
+}
+
+.error{
+    color: red;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
